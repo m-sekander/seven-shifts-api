@@ -18,6 +18,12 @@ router.route("/")
         const traitsList = readTraits();
         res.json(traitsList);
     })
+    .put((req, res) => {
+        const traitsList = readTraits();
+        traitsList[Object.keys(req.body)[0]] = Object.values(req.body)[0];
+        writeTraits(traitsList);
+        res.json(traitsList);
+    })
 
 
 module.exports = router;

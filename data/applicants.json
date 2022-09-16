@@ -3,30 +3,30 @@
         "fullName": "Moe Kelly",
         "email": "kellymoe@gmail.com",
         "position": "Chef",
-        "traits": "['friendly', 'enthusiastic', 'team-player']"
+        "traits": "['Friendly', 'Enthusiastic', 'Team-player']"
     },
     {
         "fullName": "Jack Dole",
         "email": "jdole@hotmail.com",
         "position": "Server",
-        "traits": "['detail-oriented', 'appreciative', 'quick-learner', 'problem-solver', 'adaptable']"
+        "traits": "['Detail-oriented', 'Appreciative', 'Quick-learner', 'Problem-solver', 'Adaptable']"
     },
     {
         "fullName": "Gary Paige",
         "email": "gp1001@yahoo.com",
         "position": "Chef",
-        "traits": "['eager', 'adaptable']"
+        "traits": "['Eager', 'Adaptable']"
     },
     {
         "fullName": "Kelly Cho",
         "email": "kchocho@gmail.com",
         "position": "Server",
-        "traits": "['punctual', 'problem-solver', 'level-headed', 'team-player', 'kind', 'reliable', 'hardworking']"
+        "traits": "['Punctual', 'Problem-solver', 'Level-headed', 'Team-player', 'Kind', 'Reliable', 'Hardworking']"
     },
     {
         "fullName": "Hailey Hernandez",
         "email": "hernandezh@gmail.com",
         "position": "Chef",
-        "traits": "['team-player', 'honest', 'confident', 'appreciative', 'friendly']"
+        "traits": "['Team-player', 'Honest', 'Confident', 'Appreciative', 'Friendly']"
     }
 ]
