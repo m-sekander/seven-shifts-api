@@ -1,0 +1,32 @@
+[
+    {
+        "fullName": "Moe Kelly",
+        "email": "kellymoe@gmail.com",
+        "position": "Chef",
+        "traits": "['friendly', 'enthusiastic', 'team-player']"
+    },
+    {
+        "fullName": "Jack Dole",
+        "email": "jdole@hotmail.com",
+        "position": "Server",
+        "traits": "['detail-oriented', 'appreciative', 'quick-learner', 'problem-solver', 'adaptable']"
+    },
+    {
+        "fullName": "Gary Paige",
+        "email": "gp1001@yahoo.com",
+        "position": "Chef",
+        "traits": "['eager', 'adaptable']"
+    },
+    {
+        "fullName": "Kelly Cho",
+        "email": "kchocho@gmail.com",
+        "position": "Server",
+        "traits": "['punctual', 'problem-solver', 'level-headed', 'team-player', 'kind', 'reliable', 'hardworking']"
+    },
+    {
+        "fullName": "Hailey Hernandez",
+        "email": "hernandezh@gmail.com",
+        "position": "Chef",
+        "traits": "['team-player', 'honest', 'confident', 'appreciative', 'friendly']"
+    }
+]

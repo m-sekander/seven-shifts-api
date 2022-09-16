@@ -1,0 +1,32 @@
+[
+    {
+        "fullName": "John Doe",
+        "email": "jdoe@gmail.com",
+        "position": "Server",
+        "days": ["Sun", "Mon", "Wed", "Fri"]
+    },
+    {
+        "fullName": "Jane Foster",
+        "email": "jane_f@yahoo.com",
+        "position": "Server",
+        "days": ["Tue", "Thurs", "Sat"]
+    },
+    {
+        "fullName": "Chlo Smith",
+        "email": "chlosmith@gmail.com",
+        "position": "Server",
+        "days": ["Sun", "Tue", "Fri", "Sat"]
+    },
+    {        
+        "fullName": "Jeremy Renner",
+        "email": "hawkeye@outlook.com",
+        "position": "Chef",
+        "days": ["Sun", "Mon", "Wed", "Fri"]
+    },
+    {
+        "fullName": "Nolan Knill",
+        "email": "nknill@brainstation.io",
+        "position": "Chef",
+        "days": ["Tue", "Thurs", "Sat"]
+    }
+]
